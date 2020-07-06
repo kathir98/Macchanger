@@ -9,4 +9,4 @@ It is build using optparse python module which gets mac address as input from us
 ## How to run it?
 
 - Clone this repo.
-- run it using python macchanger.py
+- run it using python mac_changer.py

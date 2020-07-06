@@ -4,7 +4,7 @@ Mac address aka hardware address can be changed for Anonymityin the internet. It
 
 ## What it contains?
 
-It is build with using argparse python module which gets mac address as input from user and changes to the user specfied one.
+It is build with using optparse python module which gets mac address as input from user and changes to the user specfied one.
 
 ## How to run it?
 

@@ -1,6 +1,6 @@
 # Macchanger
 
-Mac address aka hardware address can be changed for Anonymity in the internet. It can be easily changed in linux distros.
+Mac address aka hardware address can be changed for Anonymity in the internet.
 
 ## What it contains?
 
